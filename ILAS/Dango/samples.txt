@@ -1,0 +1,4 @@
+female_1	メス個体
+female_2	メス個体
+male_1	オス個体
+male_2	オス個体	

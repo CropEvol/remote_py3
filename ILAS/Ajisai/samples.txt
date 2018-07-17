@@ -1,0 +1,4 @@
+green_1	葉の緑色部
+green_2	葉の緑色部
+white_1	葉の白色部
+white_2	葉の白色部
