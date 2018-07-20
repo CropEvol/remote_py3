@@ -1,0 +1,22 @@
+### BLASTのデータベースに使った配列
+[NCBI]
+ヤマアジサイ葉緑体DNA中の遺伝子配列
+
+Hydrangea serrata cultivar Japanese Hydrangea serrata chloroplast, complete genome
+GenBank: KY412464.1
+
+Gene Featuresのみをダウンロード
+
+
+### BLAST条件
+[クエリ] Trinityアセンブル配列（全遺伝子配列）
+[データベース] ヤマアジサイ葉緑体DNA中の遺伝子配列
+
+BLASTN (Nucleotide to Nucleotide)
+
+下記以外はLocal BLASTのデフォルト設定
+E-valueの閾値: 1e-10
+
+
+### 結果
+DE_result.txtに追加（「chloroplast」の列）
